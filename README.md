@@ -2,7 +2,7 @@
 
 Bioinformatics student at the University of Gdańsk
 
-* Intrested in Data Science and Machine Learning, statistics, biology (mainly genetics) and anthropology 
+* Intrested in Data Science and Machine Learning, statistics, biology (mainly genetics and ecology)
 
 * Currently learning data processing, statistics and machine learning with Tensorflow
 
