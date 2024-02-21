@@ -1,8 +1,8 @@
 ### Hi, I’m @Farathey
 
-Bioinformatics student at the University of Gdańsk
+Biology student at the University of Gdańsk
 
-* Intrested in Data Science and Machine Learning, statistics, biology (mainly genetics and ecology)
+* Intrested in Data Science and Machine Learning, statistics, biology (mainly ecology and ornithology)
 
 * Currently learning data processing, statistics and machine learning with Tensorflow
 
