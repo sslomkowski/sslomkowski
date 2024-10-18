@@ -1,4 +1,4 @@
-### Hi, I’m @Farathey
+### Hi, I’m @sslomkowski
 
 PhD student at the Faculty of Biology at the University of Gdańsk
 
