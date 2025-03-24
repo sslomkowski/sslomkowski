@@ -6,7 +6,7 @@ PhD student at the Faculty of Biology at the University of Gdańsk
 
 * Currently doing data processing for WildINTEL and ACORD projects
 
-* Looking to collaborate in Data Scinece and nature conservation projects
+* Looking to collaborate in Data Science and nature conservation projects
 
 <!---
 Farathey/Farathey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
